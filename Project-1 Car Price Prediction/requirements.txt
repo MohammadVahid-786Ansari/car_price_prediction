@@ -6,7 +6,6 @@ certifi==2020.12.5
 cffi==1.14.5
 chardet==4.0.0
 click==8.0.1
-
 cycler==0.10.0
 decorator==5.0.7
 defusedxml==0.7.1
@@ -63,3 +62,4 @@ webencodings==0.5.1
 Werkzeug==2.0.1
 widgetsnbextension==3.5.1
 wincertstore==0.2
+gunicorn
